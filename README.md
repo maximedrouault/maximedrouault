@@ -1,6 +1,6 @@
 # Bonjour à tous ! 👋
 
-#### Bonjour, je suis Maxime DROUAULT,
+#### Je suis Maxime DROUAULT,
 Je suis un développeur Web passionné ayant une expérience du développement Front-end avec HTML/CSS, JS et React, ainsi que du Back-end avec Express JS, Node JS et MongoDB. Je possède par ailleurs une expérience de plus d'une quinzaine d'années côté IT, en tant que technicien, administrateur réseaux et formateur.
 
 #### Je vous propose de voir mon portfolio pour voir ce que je fais avec le lien juste ci-dessous (ME WEBSITE).
