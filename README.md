@@ -44,8 +44,7 @@ Je maîtrise également l'intégration continue **CI/CD** et l'écosystème **Cl
 
 ### Cloud & Infrastructures
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)   
 ![VM](https://img.shields.io/badge/VM-Virtualisation-blue?style=for-the-badge)
 
 ### Outils & Environnements
